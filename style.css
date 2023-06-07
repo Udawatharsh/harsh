@@ -257,3 +257,13 @@ hr {
     align-items: center;
     column-gap: 10px;
 }
+.hero {
+	margin: auto;
+	/* padding: ; */
+	width: 1170px;
+	display: flex;
+	justify-content: center;
+	border-top: 1px solid;
+	border-bottom: 1px solid;
+	padding: 20px 0;
+}
